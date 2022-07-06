@@ -7,7 +7,6 @@
 
 ## Built With
 
-
 - HTML
 - CSS
 - JavaScript  ES6
@@ -39,6 +38,13 @@ Now you can go and play with it as you wish :smile:
 - GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
 - Twitter: [@twitterhandle](https://twitter.com/esi.ogaga)
 
+## Procedure - How to use?
+- Install Webpack and webpack-cli
+- Install Webpack dependencies
+- Create webpack.config.js file, and relevant dependencies to serve the webapp
+- Make a folder for your input files and name it src.Add index.js, style.css and module.js file for implementing the required functionality - In this iterate through an array of objects, and display the objects by their index number in ascending order
+- Dynamically iterate through the array of objects to display them in a webpage in ascending order
+- Request the web page with a web-dev-server or a live-server depending on your environment 
 
 
 ## Show your support
