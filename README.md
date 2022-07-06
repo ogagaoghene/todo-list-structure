@@ -1,72 +1,68 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TO Do List JS Project
 
-> Description the project.
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript  ES6
+- WebPack
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://ogagaoghene.github.io/todo-list-app/)
 
 ## Getting Started
+To get a local copy of this exercice, Please follow these simple example steps.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+1. Clone this repository or download the Zip folder:
 
+**``https://@github.com/ogagaoghene/todo-list-structure.git``**
 
-To get a local copy up and running follow these simple example steps.
+2. Navigate to the location of the folder in your machine:
 
-### Prerequisites
+**``you@your-Pc-name:~$ cd <folder>``**
 
-### Setup
+3. Press Enter to navigate to your local clone.
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Now you can go and play with it as you wish :smile:
 
 ## Authors
 
-👤 **Author1**
+👤 **Esi Ogagaoghene**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
+- Twitter: [@twitterhandle](https://twitter.com/esi.ogaga)
 
-👤 **Author2**
+## Procedure - How to use?
+- Install Webpack and webpack-cli
+- Install Webpack dependencies
+- Create webpack.config.js file, and relevant dependencies to serve the webapp
+- Make a folder for your input files and name it src.Add index.js, style.css and module.js file for implementing the required functionality - In this iterate through an array of objects, and display the objects by their index number in ascending order
+- Dynamically iterate through the array of objects to display them in a webpage in ascending order
+- Request the web page with a web-dev-server or a live-server depending on your environment 
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to anyone whose code was used 🔰
+- Inspiration 💘
+- Microverse program ⚡
+- My standup team 🏹
+- My family's support 🙌
 
 ## 📝 License
 
