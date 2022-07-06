@@ -1,72 +1,62 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TO Do List JS Project
 
-> Description the project.
+> "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
 
-## Live Demo (if available)
+- HTML
+- CSS
+- JavaScript  ES6
+- WebPack
 
-[Live Demo Link](https://livedemo.com)
+## Live Demo 
 
+[Live Demo Link](https://ogagaoghene.github.io/todo-list-app/)
 
 ## Getting Started
+To get a local copy of this exercice, Please follow these simple example steps.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+1. Clone this repository or download the Zip folder:
 
+**``https://@github.com/ogagaoghene/todo-list-structure.git``**
 
-To get a local copy up and running follow these simple example steps.
+2. Navigate to the location of the folder in your machine:
 
-### Prerequisites
+**``you@your-Pc-name:~$ cd <folder>``**
 
-### Setup
+3. Press Enter to navigate to your local clone.
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Now you can go and play with it as you wish :smile:
 
 ## Authors
 
-👤 **Author1**
+👤 **Esi Ogagaoghene**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
+- Twitter: [@twitterhandle](https://twitter.com/esi.ogaga)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to anyone whose code was used 🔰
+- Inspiration 💘
+- Microverse program ⚡
+- My standup team 🏹
+- My family's support 🙌
 
 ## 📝 License
 
