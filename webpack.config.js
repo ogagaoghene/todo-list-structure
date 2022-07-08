@@ -11,7 +11,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'ToDo-List',
+      title: 'ToDo-List-crud-operations',
       template: './src/index.html',
     }),
   ],
