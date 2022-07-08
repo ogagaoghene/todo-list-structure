@@ -1,9 +1,9 @@
-import Form from './handlers';
+import Form from './inputHandlers';
 import {
   displayTasks as Display,
   inputEvents as Edit,
   deletTask as Delete,
-} from './func.js';
+} from './utils';
 // To Do Task Class
 class Task {
   constructor() {

@@ -36,7 +36,7 @@ $ npm start
 ```
 
 ## Run tests 
-To run the tests for linters locally, you must have node installed on your computer. Install the necessary packages. Run npx stylelint "*/.{css,scss}" Run npx hint . Run npx eslint .
+To run the tests for linters locally, you must have node installed on your computer. Install the necessary packages. Run npx stylelint "**/*.{css,scss}", and npx eslint .
 
 ### Prerequisites
 

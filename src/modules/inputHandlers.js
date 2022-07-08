@@ -1,4 +1,3 @@
-// Getting Input Values and Store to Localstorage
 const formAction = (addTask, taskArray, render) => {
   const form = document.querySelector('.add__task');
   form.addEventListener('submit', (e) => {
