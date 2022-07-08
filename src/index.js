@@ -1,6 +1,6 @@
 import './style.css';
-
 import Task from './modules/tasks';
+
 import { toggle, clearAll } from './modules/list';
 
 const todoItemsList = document.querySelector('#list_navv');
@@ -18,6 +18,3 @@ clearAllBtn.addEventListener('click', () => {
   clearAll(task);
   task.render();
 });
-=======
-import './func';
-
