@@ -1,73 +1,64 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# ToDo List Structure
+This is a to-do-list project for implementing basic CRUD operations. This web app can be used to to maintain one's daily routine. 
 
-# Project Name
+## Major Technologies
+- [ ] HTML5
+- [ ] CSS
+- [ ] JAVASCRIPT
+- [ ] NPM
+- [ ] WEBPACK
+### Demo
 
-> Description the project.
+### Install & Setup
 
+To setup and install this sample To-Do List project, follow the below steps:
+- Clone this project by the command: 
 
-## Built With
+```
+$ git clone https://github.com/ogagaoghene/todo-list-structure.git
+```
 
-- Major languages
-- Frameworks
-- Technologies used
+- Then switch to the project folder by the bellow query:
 
-## Live Demo (if available)
+```
+$ cd todo-list-structure
+```
 
-[Live Demo Link](https://livedemo.com)
+- Then run the below command to install dependencies
 
+```
+$ npm i
+```
+- Finally, run the below command to start the project.
 
-## Getting Started
+```
+$ npm start
+```
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+## Run tests 
+To run the tests for linters locally, you must have node installed on your computer. Install the necessary packages. Run npx stylelint "*/.{css,scss}" Run npx hint . Run npx eslint .
 
 ### Prerequisites
 
-### Setup
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- Git to versionning your work.
 
-### Install
+### Authors
+👤 **Ali**
 
-### Usage
+- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
+- Twitter: [@esi_ogaga](https://twitter.com/esi_ogaga)
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
