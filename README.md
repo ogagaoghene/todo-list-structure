@@ -1,5 +1,5 @@
 # ToDo List Structure
-This is a to-do-list project for implementing basic CRUD operations. This web app can be used to to maintain one's daily routine. 
+This is a to-do-list project for implementing basic CRUD (Create, Read, Update and Delete) operations. 
 
 ## Major Technologies
 - [ ] HTML5
