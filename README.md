@@ -65,10 +65,11 @@ To get a local copy of this exercise, Please follow these simple example steps.
 - Git to versionning your work.
 
 ### Authors
-👤 **Ali**
+👤 **chester**
 
-- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
-- Twitter: [@esi_ogaga](https://twitter.com/esi_ogaga)
+- GitHub: [https://github.com/rotshidzw]
+- Twitter: [https://twitter.com/footballlz]
+- LinkedIn: [https://www.linkedin.com/in/rochidzwa-chester-8062b6211/]
 
 =======
 2. Navigate to the location of the folder in your machine:
