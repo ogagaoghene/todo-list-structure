@@ -10,7 +10,7 @@ This is a to-do-list project for implementing basic CRUD (Create, Read, Update a
 ### Demo
 
 ### Install & Setup
-=======
+
 # TO Do List JS Project
 
 > "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete.
@@ -22,7 +22,7 @@ To setup and install this sample To-Do List project, follow the below steps:
 $ git clone https://github.com/ogagaoghene/todo-list-structure.git
 ```
 
-<<<<<<
+
 - Then switch to the project folder by the bellow query:
 
 ```
@@ -51,12 +51,27 @@ To run the tests for linters locally, you must have node installed on your compu
 ## Live Demo 
 
 [Live Demo Link](https://ogagaoghene.github.io/todo-list-structure/)
+=======
+[Live Demo Link](https://ogagaoghene.github.io/todo-list-app/)
+
 
 ## Getting Started
 To get a local copy of this exercise, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
+
+**``https://@github.com/ogagaoghene/todo-list-structure.git``**
+
+
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- Git to versionning your work.
+
+2. Navigate to the location of the folder in your machine:
+
+**``you@your-Pc-name:~$ cd <folder>``**
+
+3. Press Enter to navigate to your local clone.
 
 **``https://@github.com/ogagaoghene/todo-list-structure.git``**
 
@@ -96,21 +111,22 @@ Now you can go and play with it as you wish :smile:
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
 
+## Procedure - How to use?
+- Install Webpack and webpack-cli
+- Install Webpack dependencies
+- Create webpack.config.js file, and relevant dependencies to serve the webapp
+- Request the web page with a web-dev-server or a live-server depending on your environment 
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
-
-## Show your support
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## Acknowledgments
 

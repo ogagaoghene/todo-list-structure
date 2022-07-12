@@ -321,6 +321,7 @@
   "scripts": {
     "build": "webpack --mode=development",
     "test": "jest --coverage"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
