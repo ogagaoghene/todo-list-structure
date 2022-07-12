@@ -50,13 +50,13 @@ To run the tests for linters locally, you must have node installed on your compu
 
 ## Live Demo 
 
-[Live Demo Link](https://ogagaoghene.github.io/todo-list-app/)
+[Live Demo Link](https://ogagaoghene.github.io/todo-list-structure/)
 
 ## Getting Started
 To get a local copy of this exercise, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
->>>
+
 
 **``https://@github.com/ogagaoghene/todo-list-structure.git``**
 
@@ -64,14 +64,6 @@ To get a local copy of this exercise, Please follow these simple example steps.
 - IDE to edit and run the code (We use Visual Studio Code 🔥).
 - Git to versionning your work.
 
-### Authors
-👤 **chester**
-
-- GitHub: [https://github.com/rotshidzw]
-- Twitter: [https://twitter.com/footballlz]
-- LinkedIn: [https://www.linkedin.com/in/rochidzwa-chester-8062b6211/]
-
-=======
 2. Navigate to the location of the folder in your machine:
 
 **``you@your-Pc-name:~$ cd <folder>``**
@@ -84,15 +76,21 @@ Now you can go and play with it as you wish :smile:
 
 👤 **Esi Ogagaoghene**
 
-- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
-- Twitter: [@twitterhandle](https://twitter.com/esi.ogaga)
+- GitHub: [https://github.com/ogagaoghene)]
+- Twitter: [https://twitter.com/esi.ogaga]
+
+👤 **chester**
+
+- GitHub: [https://github.com/rotshidzw]
+- Twitter: [https://twitter.com/footballlz]
+- LinkedIn: [https://www.linkedin.com/in/rochidzwa-chester-8062b6211/]
+
 
 ## Procedure - How to use?
 - Install Webpack and webpack-cli
 - Install Webpack dependencies
+- Install jest( JavaScript test runner )
 - Create webpack.config.js file, and relevant dependencies to serve the webapp
-- Make a folder for your input files and name it src.Add index.js, style.css and module.js file for implementing the required functionality - In this iterate through an array of objects, and display the objects by their index number in ascending order
-- Dynamically iterate through the array of objects to display them in a webpage in ascending order
 - Request the web page with a web-dev-server or a live-server depending on your environment 
 
 
@@ -113,7 +111,6 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-=======
 
 ## Acknowledgments
 
