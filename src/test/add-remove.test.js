@@ -14,9 +14,9 @@ describe('Test Add Task and local storage', () => {
       description: 'This is sample test',
       completed: false,
     };
-    Tasks.addTask(task); 
+    Tasks.addTask(task);
     displayTasks(Tasks.tasksArray, listContainer);
-    expect(Tasks.tasksArray).toHaveLength(1); 
+    expect(Tasks.tasksArray).toHaveLength(1);
   });
 
   test('Test local storage', () => {
