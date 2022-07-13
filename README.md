@@ -81,7 +81,6 @@ Now you can go and play with it as you wish :smile:
 - Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
 - github: [https://github.com/rotshidzw]
 
-
 ## Procedure - How to use?
 - In the package.json file, jest as a test runner is specified as "jest"
 - Run test by executing - npm run test or npm test
