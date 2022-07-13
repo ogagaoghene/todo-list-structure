@@ -1,4 +1,10 @@
-import { displayTasks, removeTask } from '../modules/utils';
+/**
+ * @jest-environment jsdom
+ */
+import {
+  displayTasks,
+  removeTask,
+} from '../modules/utils';
 import Task from '../modules/tasks';
 
 const Tasks = new Task();
