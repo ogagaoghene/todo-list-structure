@@ -81,7 +81,6 @@ Now you can go and play with it as you wish :smile:
 - Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
 - github: [https://github.com/rotshidzw]
 
-
 ## Procedure - How to use?
 - Install Webpack and webpack-cli
 - Install Webpack dependencies
