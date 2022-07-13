@@ -18,7 +18,6 @@ const displayTasks = (tasks, container) => {
   });
 };
 
-// Remove Task Functionality
 const removeTask = (taskArray, addTask, id) => {
   const index = parseInt(id, 10);
   taskArray.splice(index, 1);
@@ -37,13 +36,11 @@ const deletTask = () => {
   });
 };
 
-// Edit Task Functionality
 const editTasks = (newDesc, taskArray, addTask, index) => {
   taskArray[index].description = newDesc;
   addTask();
 };
 
-// Click Task Event Handler
 const inputEvents = (tasks, addTask, listContainer, render) => {
   const inputs = listContainer.querySelectorAll('input[type="text"]');
   let newDesc = '';

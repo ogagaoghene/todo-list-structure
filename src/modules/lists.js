@@ -8,7 +8,7 @@ const toggle = (index, task) => {
   });
   task.addTask();
 };
-// Clear All Completed Functionality
+
 const clearAll = (task) => {
   task.tasksArray.forEach((data) => {
     if (data.completed === true) {
