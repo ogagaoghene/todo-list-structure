@@ -1,0 +1,285 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,;300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+:root {
+  --ff-sans: 'Open Sans', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  font-family: var(--ff-sans);
+  background-color: #fff;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+button,
+input[type='submit'],
+input[type='reset'] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.column {
+  flex-direction: column !important;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  list-style: none;
+  font-family: var(--ff-sans);
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  text-align: center;
+  color: var(--clr-text-secondary);
+  width: 100%;
+}
+
+.btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.icon {
+  max-width: 24px;
+  max-height: 24px;
+}
+
+.icon--enter {
+  content: url('./assets/images/icons/enter.png');
+  min-width: 24px;
+}
+
+.icon--dots {
+  content: url('./assets/images/icons/ico-three-dots.svg');
+  min-width: 24px;
+}
+
+.icon--trash {
+  content: url('./assets/images/icons/ico-trash.svg');
+  min-width: 24px;
+}
+
+.container {
+  width: 40%;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 4%;
+  border-radius: 2px;
+  border: 1px solid lightgrey;
+}
+
+.active {
+  background: #fffeca;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: rgb(148, 148, 148);
+}
+
+.container__header {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 1.25rem;
+  background-color: lightgrey;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.container__header h1 {
+  color: #000;
+  font-size: 1.7rem;
+  font-weight: bold;
+  font-family: 'Circular-Loom', sans-serif;
+}
+
+.btn > svg {
+  width: 1.25rem;
+}
+
+.add__task {
+  width: 100%;
+  align-items: center;
+  padding: 1.25rem;
+  border-bottom: 1px solid #444c56;
+}
+
+.add__task > input {
+  width: 99%;
+  height: 100%;
+  border: none;
+  background: transparent;
+  font-style: italic;
+  font-size: 23px;
+  font-family: monospace, sans-serif;
+}
+
+.add__task > input::placeholder {
+  color: rgb(182, 181, 181);
+  font-weight: 400;
+}
+
+.list__item {
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  padding: 0 1.25rem;
+}
+
+.nav__items > li {
+  width: 100%;
+  border-bottom: 1px solid #eee;
+}
+
+.list__item input[type='text'] {
+  width: 100%;
+  font-size: 23px;
+  font-weight: 400;
+  font-family: monospace, sans-serif;
+  text-align: start;
+  padding: 1.25rem;
+  border: none;
+  color: #000;
+  background-color: #fff;
+}
+
+.list__item input[type='text'].active {
+  background-color: #fffeca;
+}
+
+.clear {
+  width: 100%;
+}
+
+.clear button {
+  width: 100%;
+  color: #000;
+  padding: 1.25rem;
+  background-color: lightgrey;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.checked {
+  text-decoration: line-through;
+  text-decoration-color: #e7f2ffb9;
+  font-weight: 400;
+  font-style: italic !important;
+  color: #398df3 !important;
+}
+
+input[type="text"] {
+  color: #000;
+}
+
+input[type="text"]:focus {
+  color: #000;
+}
+
+@media screen and (max-width: 995px) {
+  .container {
+    width: 93%;
+  }
+}

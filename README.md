@@ -1,73 +1,115 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# ToDo List Structure
+This is a to-do-list project for implementing basic CRUD (Create, Read, Update and Delete) operations. 
 
-# Project Name
+## Major Technologies
+- [ ] HTML5
+- [ ] CSS
+- [ ] JAVASCRIPT
+- [ ] NPM
+- [ ] WEBPACK
+### Demo
 
-> Description the project.
+### Install & Setup
 
+# TO Do List JS Project
 
-## Built With
+> "To-do list" is a tool that helps to organize your day. 
 
-- Major languages
-- Frameworks
-- Technologies used
+To setup and install this sample To-Do List project, follow the below steps:
+- Clone this project by the command: 
 
-## Live Demo (if available)
+```
+$ git clone https://github.com/ogagaoghene/todo-list-structure.git
+```
+- Then switch to the project folder by the bellow query:
 
-[Live Demo Link](https://livedemo.com)
+```
+$ cd todo-list-structure
+```
 
+- Then run the below command to install dependencies
+
+```
+$ npm i
+```
+- Finally, run the below command to start the project.
+
+```
+$ npm start
+```
+
+## Run tests 
+To run the tests for linters locally, you must have node installed on your computer. Install the necessary packages. Run npx stylelint "**/*.{css,scss}", and npx eslint .
+- HTML
+- CSS
+- JavaScript  ES6
+- WebPack
+
+## Live Demo 
+
+[Live Demo Link](https://ogagaoghene.github.io/todo-list-app/)
 
 ## Getting Started
+To get a local copy of this exercise, Please follow these simple example steps.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+1. Clone this repository or download the Zip folder:
 
 
+**``https://@github.com/ogagaoghene/todo-list-structure.git``**
+
+
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- Git to versionning your work.
+
+
+2. Navigate to the location of the folder in your machine:
+
+**``you@your-Pc-name:~$ cd <folder>``**
+
+3. Press Enter to navigate to your local clone.
+
+Now you can go and play with it as you wish :smile:
 
 ## Authors
 
-👤 **Author1**
+👤 **Esi Ogagaoghene**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
+- Twitter: [@esi_ogagaoghene](https://twitter.com/esi.ogaga)
 
-👤 **Author2**
+👤 **mavhungu rotshidzwa chester**
+- Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+## Procedure - How to use?
+- Install Webpack and webpack-cli
+- Install Webpack dependencies
+- Create webpack.config.js file, and relevant dependencies to serve the webapp
+- Install npx --save-dev @jest-environment jsdom  
+- Install babel presets 
+- npm run build
+- npm run test
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+- Hat tip to anyone whose code was used 🔰
+- Inspiration 💘
+- Microverse program ⚡
+- My standup team 🏹
+- My family's support 🙌
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+
