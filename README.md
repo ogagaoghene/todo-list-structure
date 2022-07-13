@@ -82,7 +82,7 @@ Now you can go and play with it as you wish :smile:
 - github: [https://github.com/rotshidzw]
 
 ## Procedure - How to use?
-- In the package.json file, jest as a test runner is specified as "jest"
+- In the package.json file, jest is a specified as the test runner
 - Run test by executing - npm run test or npm test
 - The tests runs with jsdom to mock localstorage which is a browser's API 
 - Please ensure jsdom is installed on your environment if necessary
