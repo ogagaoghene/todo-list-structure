@@ -79,16 +79,15 @@ Now you can go and play with it as you wish :smile:
 
 👤 **mavhungu rotshidzwa chester**
 - Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
-
+- github: [https://github.com/rotshidzw]
 
 ## Procedure - How to use?
-- Install Webpack and webpack-cli
-- Install Webpack dependencies
-- Create webpack.config.js file, and relevant dependencies to serve the webapp
-- Install npx --save-dev @jest-environment jsdom  
-- Install babel presets 
-- npm run build
-- npm run test
+- In the package.json file, jest is a specified as the test runner
+- Run test by executing - npm run test or npm test
+- The tests runs with jsdom to mock localstorage which is a browser's API 
+- Please ensure jsdom is installed on your environment if necessary
+- Please ensure jest is also installed on your environment if nceded
+- Please ensure babel presets is installed if needed.
 
 ## Show your support
 
