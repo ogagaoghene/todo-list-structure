@@ -1,15 +1,7 @@
 # ToDo List Structure
 This is a to-do-list project for implementing basic CRUD (Create, Read, Update and Delete) operations. 
 
-## Major Technologies
-- [ ] HTML5
-- [ ] CSS
-- [ ] JAVASCRIPT
-- [ ] NPM
-- [ ] WEBPACK
-### Demo
 
-### Install & Setup
 
 # TO Do List JS Project
 
@@ -45,18 +37,12 @@ To run the tests for linters locally, you must have node installed on your compu
 - JavaScript  ES6
 - WebPack
 
-## Live Demo 
-
-[Live Demo Link](https://ogagaoghene.github.io/todo-list-app/)
-
 ## Getting Started
 To get a local copy of this exercise, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-
 **``https://@github.com/ogagaoghene/todo-list-structure.git``**
-
 
 - IDE to edit and run the code (We use Visual Studio Code 🔥).
 - Git to versionning your work.
