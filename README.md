@@ -1,5 +1,5 @@
 # ToDo List
-A ToDO list app that allows users to create, read, update and delete their daily activities and helps organize their day. 
+A ToDo list app that allows users to create, read, update and delete their daily activities and helps organize their day. 
 
 ## Tech Stack
 
