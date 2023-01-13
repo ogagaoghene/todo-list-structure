@@ -39,14 +39,6 @@ Start the server
 - Twitter: [@rotshidzwamavh1](https://twitter.com/rotshidzwamavh1)
 - github: [https://github.com/rotshidzw]
 
-## Procedure - How to use?
-- In the package.json file, jest is a specified as the test runner
-- Run test by executing - npm run test or npm test
-- The tests runs with jsdom to mock localstorage which is a browser's API 
-- Please ensure jsdom is installed on your environment if necessary
-- Please ensure jest is also installed on your environment if nceded
-- Please ensure babel presets is installed if needed.
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
