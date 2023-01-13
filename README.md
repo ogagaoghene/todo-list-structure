@@ -1,60 +1,32 @@
 # ToDo List Structure
-This is a to-do-list project for implementing basic CRUD (Create, Read, Update and Delete) operations. 
+A ToDO list app that allows users to create, read, update and delete their daily activities and helps organize their day. 
 
+## Tech Stack
 
+**Client:** HTML5, CSS, JavaScript, Webpack
 
-# TO Do List JS Project
+## Run Locally
+Clone the project
 
-> "To-do list" is a tool that helps to organize your day. 
-
-To setup and install this sample To-Do List project, follow the below steps:
-- Clone this project by the command: 
-
+```bash
+ git clone https://github.com/ogagaoghene/todo-list-structure.git
 ```
-$ git clone https://github.com/ogagaoghene/todo-list-structure.git
-```
-- Then switch to the project folder by the bellow query:
+Go to the project directory
 
+```bash
+  cd todo-list-structure
 ```
-$ cd todo-list-structure
-```
+Install dependencies
 
-- Then run the below command to install dependencies
-
-```
-$ npm i
-```
-- Finally, run the below command to start the project.
-
-```
-$ npm start
+```bash
+  npm install
 ```
 
-## Run tests 
-To run the tests for linters locally, you must have node installed on your computer. Install the necessary packages. Run npx stylelint "**/*.{css,scss}", and npx eslint .
-- HTML
-- CSS
-- JavaScript  ES6
-- WebPack
+Start the server
 
-## Getting Started
-To get a local copy of this exercise, Please follow these simple example steps.
-
-1. Clone this repository or download the Zip folder:
-
-**``https://@github.com/ogagaoghene/todo-list-structure.git``**
-
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to versionning your work.
-
-
-2. Navigate to the location of the folder in your machine:
-
-**``you@your-Pc-name:~$ cd <folder>``**
-
-3. Press Enter to navigate to your local clone.
-
-Now you can go and play with it as you wish :smile:
+```bash
+  npm run start
+```
 
 ## Authors
 
